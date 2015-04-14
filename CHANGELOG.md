@@ -5,6 +5,7 @@
 ### Added
 
 - Install cbd to a directory which is available on $PATH
+- Use the built in 'checksum' function instead of the external 'shasum' to generate secrets
 
 ### Removed
 
